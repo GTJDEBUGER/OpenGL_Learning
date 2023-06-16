@@ -1,2 +1,2 @@
 # OpenGL_Learning
-本学期跟着Cherno佬的视频教程做的非常非常简单的OpenGL工程，使用的是glm这个开源实现以及imgui搭建交互界面。//以后的OpenGL自学应该会基于这个项目
+This semester I followed Cherno's video tutorials to make a very, very simple OpenGL project, using glm, an open source implementation, and imgui to build the interactive interface. // Future OpenGL self-study should be based on this project
